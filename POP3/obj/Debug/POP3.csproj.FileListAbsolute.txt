@@ -1,0 +1,7 @@
+E:\Torrent\Sieciowe\POP3\POP3\bin\Debug\POP3.exe.config
+E:\Torrent\Sieciowe\POP3\POP3\bin\Debug\POP3.exe
+E:\Torrent\Sieciowe\POP3\POP3\bin\Debug\POP3.pdb
+E:\Torrent\Sieciowe\POP3\POP3\obj\Debug\POP3.csprojResolveAssemblyReference.cache
+E:\Torrent\Sieciowe\POP3\POP3\obj\Debug\POP3.csproj.CoreCompileInputs.cache
+E:\Torrent\Sieciowe\POP3\POP3\obj\Debug\POP3.exe
+E:\Torrent\Sieciowe\POP3\POP3\obj\Debug\POP3.pdb
